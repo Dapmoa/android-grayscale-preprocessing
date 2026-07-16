@@ -6,7 +6,6 @@ Repository ini berisi script Python untuk mengubah file APK Android menjadi citr
 
 - convertmal.py
 - convertbegn.py
-- Manual Book 
 
 ## Cara Menjalankan
 
